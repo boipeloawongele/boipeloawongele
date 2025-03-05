@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boipeloawongele
+- 👋 Hi, I’m Boipelo
 - 👀 I’m interested in school
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on i dont know
