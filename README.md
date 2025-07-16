@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Boipelo
 - 👀 I’m interested in school
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on i dont know
-- 📫 How to reach me just dont
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me (just dont)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: im weird
 
