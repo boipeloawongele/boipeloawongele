@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Boipelo
-- 👀 I’m interested in school
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me (just dont)
